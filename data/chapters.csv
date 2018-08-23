@@ -1,13 +1,13 @@
 ﻿section,chapter,description
-1,1,Live animals
-1,2,Meat and edible meat offal
-1,3,"Fish and crustaceans, molluscs and other aquatic invertebrates"
-1,4,"Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included"
-1,5,"Products of animal origin, not elsewhere specified or included "
-2,6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage"
-2,7,Edible vegetables and certain roots and tubers
-2,8,Edible fruit and nuts; peel of citrus fruit or melons
-2,9,"Coffee, tea, maté and spices"
+1,01,Live animals
+1,02,Meat and edible meat offal
+1,03,"Fish and crustaceans, molluscs and other aquatic invertebrates"
+1,04,"Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included"
+1,05,"Products of animal origin, not elsewhere specified or included "
+2,06,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage"
+2,07,Edible vegetables and certain roots and tubers
+2,08,Edible fruit and nuts; peel of citrus fruit or melons
+2,09,"Coffee, tea, maté and spices"
 2,10,Cereals
 2,11,Products of the milling industry; malt; starches; inulin; wheat gluten
 2,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder"
